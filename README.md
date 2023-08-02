@@ -1,7 +1,8 @@
 # Vantra Data
 Welcome to the github repository where Vantra's public data is stored in.
 <br>
-Please know: Vantra's Changelogs are written in a way to work with Roblox's RichText feature.
+<br>
+<b>Please know: Vantra's Changelogs are written in a way to work with Roblox's RichText feature.</b>
 
 # Code Example
 This simple lua code prints the current Vantra Version and Changelog to your console in Roblox.
