@@ -1,11 +1,9 @@
 # Vantra Data
 Welcome to the github repository where Vantra's public data is stored in.
 <br>
-<br>
 
 # Code Example
 This simple lua code prints the current Vantra Version and Changelog to your console in Roblox.
-<br>
 <br>
 ```
 local changelog = request(
