@@ -1,3 +1,6 @@
+# This repository is now deprecated
+I've archived this repository because Vantra Hub moved to a new custom server and API.
+
 # Vantra Data
 Welcome to the github repository where Vantra's public data is stored in.
 <br>
